@@ -1,0 +1,20 @@
+{
+  "name": "CollegeSport",
+  "authors": [
+    "loki_888 <loki_888@i.ua>"
+  ],
+  "description": "PetProject with bower, sass, css3, some jquery fully responsive",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
